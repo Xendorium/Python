@@ -1,2 +1,2 @@
 # Python
-Folder do podstawowych zadań z języka Python
+Folder do różnych zadań z języka Python
